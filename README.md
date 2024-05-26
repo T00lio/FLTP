@@ -112,7 +112,4 @@ La colocation es una práctica recomendada en el desarrollo de aplicaciones Reac
 
 Los objetos de mapeo en JavaScript son estructuras de datos que permiten asociar claves (keys) con valores (values). Los dos tipos principales de objetos de mapeo en JavaScript son los objetos (`Object`) y los mapas (`Map`). A continuación, te explico ambos conceptos:
 
-### Objetos (`Object`)
-
-Un objeto en JavaScript es una colección de propiedades, y una propiedad es una asociación entre un nombre (o clave) y un valor. Los objetos se utilizan comúnmente para almacenar colecciones de datos relacionados y entidades más complejas.
 
