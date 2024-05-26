@@ -110,6 +110,5 @@ test('renders user profile', () => {
 
 La colocation es una práctica recomendada en el desarrollo de aplicaciones React para mantener el código organizado, modular y fácil de mantener. Al agrupar archivos relacionados en un mismo lugar, se mejora la legibilidad y mantenibilidad del proyecto, lo que resulta especialmente útil en aplicaciones de gran escala.
 
-Los objetos de mapeo en JavaScript son estructuras de datos que permiten asociar claves (keys) con valores (values). Los dos tipos principales de objetos de mapeo en JavaScript son los objetos (`Object`) y los mapas (`Map`). A continuación, te explico ambos conceptos:
 
 
